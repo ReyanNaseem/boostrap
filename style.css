@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --main: #bc9667;
+    --second: #edeae3;
+}
+.pink{
+    background-color: pink;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+
+#home{
+    background-image: url(images/img/bg.png);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+#nav{
+    height: 10vh;
+    color: white;
+    text-decoration: none;
+    padding: 0;
+}
+#logo{
+    height: 10vh;
+}
+#main{
+    /* height: 90vh; */
+}
